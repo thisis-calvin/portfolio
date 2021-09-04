@@ -1,12 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Domine:wght@400;500;600;700&display=swap");
 
 html,
 body {
   margin: 0;
   padding: 0;
+  word-spacing: 2px;
   box-sizing: border-box;
 
-  --font-serif: "Inter", sans-serif;
+  --font-serif: "Domine", serif;
   --font-mono: "IBM Plex Mono", "Menlo", "Monaco", monospace;
 
   /* default light-mode colors */
@@ -115,7 +116,7 @@ p a {
 
 @media only screen and (min-width: 600px) {
   main {
-    max-width: 780px;
+    max-width: 700px;
     /* paper feel */
     margin: 2em auto;
     padding: 0 2em;

@@ -1,6 +1,5 @@
 baseURL = "https://carlisle.thesephist.vercel.app/"
 languageCode = "en-us"
-title = "Carlisle"
 summaryLength = 32
 
 [markup.goldmark.renderer]
