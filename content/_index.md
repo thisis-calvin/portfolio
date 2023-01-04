@@ -1,13 +1,16 @@
 ---
-title: "pal.codes"
+title: "My name is Calvin"
 ---
 
-# Hi, I'm Aayush
+# My name is Calvin
+ 
 
-I'm a product engineer currently building for [myself](https://github.com/palcodes). I like wearing many hats when building products, pretty much everything from making design decisions to writing the application to taking it to production *[something I need to do more].* While doing this is of course not easy, we can achieve greatness with just a bunch of good people around.
+I lead operations and currently building for myself at [Devfolio](devfolio.co). I like to contribute on many levels, all the way from initiatives to people. I am a people person, and I care more about empathetic teams than extremely crisp business narratives.
 
-I've built a couple of apps that I am proud of, each one defining a step in my process of learning. I want to continue doing so while working on interesting projects with amazing people.
+I learn best by building stuff and getting my hands dirty. If you want to talk about tech, life, finance or about anything else that makes you roll - feel free to reach out to me on [Twitter - @thisiscalvin_](@https://mobile.twitter.com/thisiscalvin_)
 
-I like writing, but very often I find myself in the **think-wish-forget** loop. But today is one of those days when I shut up and do what I set out to do which is **think-do-iterate**. While constantly juggling through all kinds of emotions, experiences that life has to throw at me, I feel collected, resolved when I come across articles that inspire me in the most grounded manner, providing the most practical approach to forming a constructive habit. One such treasure is [Linus's blog](https://thesephist.com) and I'm shamelessly using his theme [Carlisle](https://carlisle.thesephist.vercel.app) as a base for my blog as it hit just the right chords with my current writing needs. I will on the side, work on my own version of the design and will release that when ready. No promises.
+Very often, I find myself in the think-wish-forget loop. I created this blog as a way for me to get out of this loop and start to think-do-iterate. The fact that there are overwhelmingly vast amounts of pure knowledge everywhere on the internet, I was fascinated by the idea of having my own corner where I can post my little perspectives on them.
 
-I want this blog to be a public collection of my musings about life, tech, travel, football and everything in between.
+While constantly juggling through all kinds of emotions and experiences that life has to throw at me, I feel collected and resolved when I come across articles that inspire me in the most grounded manner, providing the most practical approach to forming a constructive habit. One such treasure is [Linus’s blog](https://thesephist.com/), and I’m shamelessly using his theme [Carlisle](https://carlisle-thesephist.vercel.app/) as a base for my blog as it hits just the right chord with my current writing needs. I will work on my own version of the design on the side and release that when ready. No promises.
+
+That said, I am fortunate to be in a position where what I do every day is exactly what I have unconditionally enjoyed doing for a few years — Operations, tinkering, and experimenting.
