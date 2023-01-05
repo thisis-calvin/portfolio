@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My name is Calvin on </title>
-    <link>https://carlisle.thesephist.vercel.app/</link>
+    <link>https://calvinjoji.xyz/</link>
     <description>Recent content in My name is Calvin on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://carlisle.thesephist.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://calvinjoji.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://carlisle.thesephist.vercel.app/about/</link>
+      <link>https://calvinjoji.xyz/about/</link>
       <pubDate>Sun, 12 Jul 2020 14:36:50 -0400</pubDate>
       
-      <guid>https://carlisle.thesephist.vercel.app/about/</guid>
+      <guid>https://calvinjoji.xyz/about/</guid>
       <description>Hi there!</description>
     </item>
     

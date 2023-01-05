@@ -9,7 +9,7 @@ Carlisle is a minimal template for a Hugo site. Carlisle is the basis for my cus
 
 ![Carlisle sample](https://repository-images.githubusercontent.com/279123616/89ca9d00-c47b-11ea-887d-3921387bbac3)
 
-Carlisle can be easily deployed on [Vercel](https://vercel.com/guides/deploying-hugo-with-vercel). Check out the live demo at [carlisle.thesephist.vercel.app](https://carlisle.thesephist.vercel.app).
+Carlisle can be easily deployed on [Vercel](https://vercel.com/guides/deploying-hugo-with-vercel). Check out the live demo at [calvinjoji.xyz](https://calvinjoji.xyz).
 
 To use this template, simply install [Hugo](https://gohugo.io), fork this repository, and start customizing.
 
@@ -17,4 +17,4 @@ To use this template, simply install [Hugo](https://gohugo.io), fork this reposi
 
 The Carlisle template is licensed under the liberal [MIT License](/LICENSE).
 
-Sample content within `/content/posts/` is taken from [Hugo Basic Examples](https://github.com/gohugoio/hugoBasicExample) and licensed under their independent MIT License.
+Sample content within `/content/blog/` is taken from [Hugo Basic Examples](https://github.com/gohugoio/hugoBasicExample) and licensed under their independent MIT License.
