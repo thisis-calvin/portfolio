@@ -3,6 +3,7 @@ title: "Hosting ETHIndia: Learnings and beyond"
 date: "2023-01-05"
 # tags: ["test"]
 ---
+![Ethindia](/images/ethindia-1.webp)
 [ETHIndia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj63I7M57D8AhWQSWwGHcOPDfYQFnoECBAQAQ&url=https%3A%2F%2Fethindia.co%2F&usg=AOvVaw1C4FhHPgZJFTqblbi6KvDX) was an unforgettable experience and a major milestone in my career. As the operations lead, I had the unique opportunity to help organize the world's biggest Ethereum hackathon, bringing together developers, designers, and entrepreneurs from all over the world to work on innovative projects that leverage the power of Ethereum to solve real-world problems.
 
 The hackathon was a three-day sprint, with it’s share of spontaneous challenges. Some which i anticipated and some which no one did :)
