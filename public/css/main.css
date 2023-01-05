@@ -1,14 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Domine:wght@400;500;600;700&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 html,
 body {
   margin: 0;
   padding: 0;
-  word-spacing: 2px;
   box-sizing: border-box;
 
-  --font-serif: "Domine", serif;
-  --font-mono: "IBM Plex Mono", "Menlo", "Monaco", monospace;
+  --font-serif: "Inter", sans-serif;
+  --font-mono: "Space Mono", monospace;
 
   /* default light-mode colors */
   --foreground-default: rgb(42, 42, 46);
@@ -53,10 +52,11 @@ main {
   margin: 0 auto;
 }
 
+
+
 a {
   color: var(--foreground-default);
 }
-
 /* TYPOGRAPHY */
 
 h1,
@@ -92,9 +92,10 @@ li {
 
 li a,
 p a {
-  text-decoration: none;
-  padding: 0 5px;
-  background: #d7d9f0;
+  text-decoration: underline;
+  padding: 0 3px;
+  background-color: #d1d3f0;
+  color: black;
 }
 
 .postlist li a,
