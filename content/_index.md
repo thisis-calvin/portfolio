@@ -1,10 +1,10 @@
 ---
-title: "My name is Calvin"
+title: "th-is-me"
 ---
 
 <!-- # My name is Calvin -->
  
-
+# My name is Calvin.
 I lead operations and currently building for myself at [Devfolio](https://devfolio.co). I like to contribute on many levels, all the way from initiatives to people. I am a people person, and I care more about empathetic teams than extremely crisp business narratives.
 
 I learn best by building stuff and getting my hands dirty. If you want to talk about tech, life, finance or about anything else that makes you roll - feel free to reach out to me on [@thisiscalvin_](https://mobile.twitter.com/thisiscalvin_)
