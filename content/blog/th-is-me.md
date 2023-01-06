@@ -4,8 +4,7 @@ date: "2023-01-05"
 # tags: ["test"]
 ---
  Describing yourself is tricky. After a couple minutes sitting down with myself, here are the  things about myself i'd love sharing on the internet.
-## **Calvin**
-### **Loves**
+### **I Love**
 - Eating Dosa and not getting disturbed by anyone during the process.
 - Unplanned Treks on weekends
 - Everything sports but Chelsea FC occupied a dedicated corner in my heart since ‘11
@@ -16,7 +15,7 @@ date: "2023-01-05"
 - Dogs, sometimes cats.
 - Coming across Minimal designs which has depth
 
-### **Believes**
+### **I Believe**
 - In the power of Community
 - Decentralisation and it's way forward
 - People building the Indian Startup ecosystem.
@@ -26,7 +25,7 @@ date: "2023-01-05"
 - People over stories
 - ..And in himself
 
-### **Fears**
+### **I Fear**
 - Watching Horror movies
 - Over-working and not taking enough breaks
 - Not able to run 5km
