@@ -3,6 +3,7 @@ title: "th-is-me"
 date: "2023-01-05"
 # tags: ["test"]
 ---
+## Describing yourself is tricky. After a couple minutes sitting down with myself, here are the  things about myself i'd love sharing on the internet.
 ## **Calvin**
 ### **Loves**
 - Eating Dosa and not getting disturbed by anyone during the process.
@@ -30,3 +31,5 @@ date: "2023-01-05"
 - Over-working and not taking enough breaks
 - Not able to run 5km
 - Social media toxicity
+
+Ps: I sometimes love structured written notes with crisp details. It takes less energy to finish up the blog :p
