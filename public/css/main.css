@@ -287,3 +287,51 @@ body.dark-mode main * {
     background: rgb(45, 45, 45);
     color: #f5f5f5;
 }
+/* .social-icons-list.dark-mode .social-icon,
+.social-icons-list .social-icon a:visited  {
+  fill: var(--dark-text-color);
+}
+
+.social-icons-list .social-icon a:hover {
+  fill: var(--accent-color);
+}
+ */
+
+
+.social-icons {
+  text-align: center;
+
+}
+/* .social-icons-list {
+  /* display: flex; */
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+} */ 
+
+.social-icons .social-icons-list {
+  display: inline-block;
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+.social-icons-list .social-icon {
+   box-sizing: border-box;
+  display: inline-block;
+  fill: var(--light-text-color);
+  height: 24px;
+  margin: 0 6px;
+  width: 24px;
+}
+
+
+.social-icon a  {
+  transition: fill 0.15s ease;
+
+  background: initial;
+}
+
+.overlay {
+  margin-bottom: 20%;
+}
